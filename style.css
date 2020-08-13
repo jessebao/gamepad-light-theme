@@ -1,27 +1,27 @@
 .controller.ds4.white {
-  background-image: url(https://raw.githubusercontent.com/jessebao/gamepad-light-theme/master/base.svgz) !important;
+  background-image: url(https://raw.githubusercontent.com/jessebao/gamepad-light-theme/master/svg/base.svg) !important;
 }
 
 .ds4.white .stick {
-  background-image: url(https://raw.githubusercontent.com/jessebao/gamepad-light-theme/master/sticks.svgz) !important;
+  background-image: url(https://raw.githubusercontent.com/jessebao/gamepad-light-theme/master/svg/sticks.svg) !important;
 }
 
 .ds4.white .face {
-  background-image: url(https://raw.githubusercontent.com/jessebao/gamepad-light-theme/master/dpad.svgz) !important;
+  background-image: url(https://raw.githubusercontent.com/jessebao/gamepad-light-theme/master/svg/dpad.svg) !important;
 }
 
 .ds4.white .bumper {
-    background-image: url(https://raw.githubusercontent.com/jessebao/gamepad-light-theme/master/bumper.svgz) !important;
+    background-image: url(https://raw.githubusercontent.com/jessebao/gamepad-light-theme/master/svg/bumper.svg) !important;
 }
 
 .ds4.white .trigger {
-    background-image: url(https://raw.githubusercontent.com/jessebao/gamepad-light-theme/master/triggers.svgz) !important;
+    background-image: url(https://raw.githubusercontent.com/jessebao/gamepad-light-theme/master/svg/triggers.svg) !important;
 }
 
 .ds4.white .touchpad.pressed {
-    background-image: url(https://raw.githubusercontent.com/jessebao/gamepad-light-theme/master/touchpad.svgz) !important;
+    background-image: url(https://raw.githubusercontent.com/jessebao/gamepad-light-theme/master/svg/touchpad.svg) !important;
 }
 
 .ds4.white .back, .ds4 .start {
-    background-image: url(https://raw.githubusercontent.com/jessebao/gamepad-light-theme/master/start.svgz) !important;
+    background-image: url(https://raw.githubusercontent.com/jessebao/gamepad-light-theme/master/svg/start.svg) !important;
 }
